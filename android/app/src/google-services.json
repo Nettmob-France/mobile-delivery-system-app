@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087631791659",
+    "project_id": "devlivery-management-system",
+    "storage_bucket": "devlivery-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087631791659:android:1edbf040061d7e1e87bc6e",
+        "android_client_info": {
+          "package_name": "com.example.hundreddaysofcode.team.flutter_projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087631791659-539a54i3efq38m8gdltusacbo2ful1rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0SoKf2Mf381ZKvPbnRiLgiSV41ITpXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087631791659-539a54i3efq38m8gdltusacbo2ful1rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
